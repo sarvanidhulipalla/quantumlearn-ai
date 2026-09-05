@@ -11,3 +11,4 @@ email-validator>=2.2.0
 requests>=2.32.0
 qiskit>=2.5.0
 qiskit-aer>=0.17.0
+psycopg2-binary>=2.9.9
