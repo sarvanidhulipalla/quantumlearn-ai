@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.env.*
+*.db
+*.sqlite3
+quantumlearn.db
+.pytest_cache/
+.coverage
+htmlcov/
